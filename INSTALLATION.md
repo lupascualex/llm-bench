@@ -23,8 +23,8 @@ Step-by-step instructions to go from `git clone` to a working `llm-bench` CLI.
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/lupascualex/llm-benchmarker.git
-cd llm-benchmarker
+git clone https://github.com/lupascualex/llm-bench.git
+cd llm-bench
 ```
 
 ---
